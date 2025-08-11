@@ -1,4 +1,3 @@
-Of course! My apologies, I should have considered that GitHub is an international platform. Here is the same high-quality description, fully translated into English for your README.md file.
 
 The S.U.C.K. Service Protocol 🚀
 
